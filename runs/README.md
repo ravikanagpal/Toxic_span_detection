@@ -1,0 +1,3 @@
+- log_train_roberta.txt -> This file contains logs for the roberta model run to create the checkpoints for which google drive link is shared.
+- span_predictions_roberta.txt -> This file contains the toxic spans detected by roberta model on the test set.
+- span_predictions_distil.txt -> This file contains the toxic spans detected by distilbert model on the test set.
