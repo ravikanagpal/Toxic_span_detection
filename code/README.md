@@ -31,7 +31,7 @@ $ virtualenv venv --python=python3
 $ source venv/bin/activate
 
 # change directory to the repo where we have requirements file
-$ cd f2021-proj-ravikanagpal/code/
+$ cd Toxic-span-detection/code/
 
 # Install python dependencies
 $ pip3 install  -r requirements.txt 
